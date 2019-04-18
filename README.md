@@ -5,7 +5,7 @@ This sample assumes you have python 3 installed.
 
 Before you can run the on e.g. MacOS you need to install sox, one approach is
 
-Get Homebrew an installer app, instructions here http://macappstore.org/sox/
+Get Homebrew, an installer app, instructions here http://macappstore.org/sox/
 
 Open Teminal, and run
 ```
